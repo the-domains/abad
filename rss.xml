@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rodrigo Abad]]></title>
+        <description><![CDATA[Rodrigo Abad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 20:47:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fui educado para admirar as estrelas. Cresci com a permissão de sonhar em um dia poder ser astronauta. Tive incentivo e financiamento para estudar nas melhores escolas de física e astronomia. Me foram oferecidas especializações internacionais. Há alguns anos fui convidado à integrar uma das maiores agências especiais do mundo. La pude me desenvolver, me tornando um astrofísico competente e sempre convidado à integrar novas missões espaciais.</p>]]></description>
+            <link>undefinedfui-educado-para-admirar-as-estrelas-cresci-com-a-permissao/index.html</link>
+            <guid isPermaLink="false">1723b8a0-2f31-4845-9e55-2cbb99031c03</guid>
+            <pubDate>Mon, 09 May 2016 20:47:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
