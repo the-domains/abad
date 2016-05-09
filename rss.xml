@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Rodrigo Abad]]></title>
         <description><![CDATA[Rodrigo Abad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/abad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 20:47:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 21:08:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/abad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Maquetes de um sonho]]></title>
             <description><![CDATA[<p>Fui educado para admirar as estrelas. Cresci com a permissão de sonhar em um dia poder ser astronauta. Tive incentivo e financiamento para estudar nas melhores escolas de física e astronomia. Me foram oferecidas especializações internacionais. Há alguns anos fui convidado à integrar uma das maiores agências especiais do mundo. La pude me desenvolver, me tornando um astrofísico competente e sempre convidado à integrar novas missões espaciais.</p>]]></description>
-            <link>undefinedfui-educado-para-admirar-as-estrelas-cresci-com-a-permissao/index.html</link>
+            <link>https://thegrid.ai/abad/fui-educado-para-admirar-as-estrelas-cresci-com-a-permissao/index.html</link>
             <guid isPermaLink="false">1723b8a0-2f31-4845-9e55-2cbb99031c03</guid>
-            <pubDate>Mon, 09 May 2016 20:47:53 GMT</pubDate>
+            <pubDate>Mon, 09 May 2016 21:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
