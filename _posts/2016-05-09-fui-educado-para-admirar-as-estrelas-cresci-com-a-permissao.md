@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Fui educado para admirar as estrelas. Cresci com a permissão de sonhar em um dia poder ser astronauta. Tive incentivo e financiamento para estudar nas melhores escolas de física e astronomia. Me foram oferecidas especializações internacionais. Há alguns anos fui convidado à integrar uma das maiores agências especiais do mundo. La pude me desenvolver, me tornando um astrofísico competente e sempre convidado à integrar novas missões espaciais.'
-datePublished: '2016-05-09T20:47:53.406Z'
-dateModified: '2016-05-09T20:47:47.177Z'
+datePublished: '2016-05-09T21:08:00.694Z'
+dateModified: '2016-05-09T20:59:18.594Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-09-fui-educado-para-admirar-as-estrelas-cresci-com-a-permissao.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-starred: false
-sourcePath: _posts/2016-05-09-fui-educado-para-admirar-as-estrelas-cresci-com-a-permissao.md
+starred: true
 url: fui-educado-para-admirar-as-estrelas-cresci-com-a-permissao/index.html
 _type: Article
 
